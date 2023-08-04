@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import './quotes.css';
 import axios from "axios";
-import img from './img.jpg';
 
 export default function Quotes()
 {

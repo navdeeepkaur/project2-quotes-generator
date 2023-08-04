@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='git'>
-        <i class="fa-brands fa-github"></i>
+      <a href="https://github.com/navdeeepkaur/project2-quotes-generator" target="_blank"><i class="fa-brands fa-github"></i></a>
       </div>
       <Quotes/>
     </div>
